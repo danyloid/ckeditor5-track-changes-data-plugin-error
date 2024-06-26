@@ -1,4 +1,4 @@
-# ckeditor5-react-plugin
+# ckeditor5-track-changes-data-plugin-error
 
 This repo contains a repro of an issue with CKEditor5 Track Changes Data plugin.
 This example follows a [Track Changes - Saving data without suggestions](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/track-changes/track-changes-data.html) guide.
